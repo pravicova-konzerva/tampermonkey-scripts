@@ -1,3 +1,4 @@
+// ==UserScript==
 // @name         Copy MarkDown link
 // @version      2024-09-07
 // @description  Copy text with current URL link for MarkDown
